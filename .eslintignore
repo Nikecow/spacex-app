@@ -1,0 +1,8 @@
+.husky/**
+.yarn/**
+yarn.lock
+.idea/**
+node_modules/**
+public/**
+build/**
+
